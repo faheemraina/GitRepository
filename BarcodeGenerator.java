@@ -19,7 +19,7 @@ public class BarcodeGenerator {
 	        	  Code128  barcode = new Code128();
 	             //   barcode.setData("978047082122");
 	        	 // barcode.setData("This is wwe Superatsr john cena..!@##$%^com.onbarcode.barcode.IBarcode.");
-	        	   barcode.setData("Khalid yaqoob");
+	        	   barcode.setData("Replace me with Barcode text");
 	        	 //  barcode.setX(2);
 	               
 	               // barcode.setY(60);
