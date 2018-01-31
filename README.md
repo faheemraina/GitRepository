@@ -1,5 +1,5 @@
 GitRepository
 =============
 
-My first public git repository
-this is just a read me file.
+Java Barcode and Multidiomensional QR Code generator.
+Barbeque Libs with spring
